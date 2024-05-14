@@ -6,7 +6,7 @@
 
 
 
-# ex01-dark-mode-calculator
+# ex01-HTML, CSS & JavaScript
 # ex02-
 ------------------------------------
 # HTML Tags
